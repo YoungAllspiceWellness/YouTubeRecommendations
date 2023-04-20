@@ -21,9 +21,9 @@ at least R 4.2.1
 The shiny, tidyverse, magrittr, DBI, RSQLite, glue, igraph, scales, and networkD3 packages with updates as of 4/20/2023
 
 ## Running the Application
-you can run the application two ways 
-  1. directly from github using the command  shiny::runGitHub("YouTubeRecommendations", "YoungAllSpiceWellness")
-  2. download the files and run app on your local machine (very important: the sqlite database you use - your own or the one provided - must be in the same     directory as the UI and server files)
+1. download all the files in the repo 
+2. follow the instructions in the recommendations.r script to download the dataset and create the database
+3. launch the application using the UI.r and server.r files (very important: the sqlite database must be in the same directory as the UI and server files)
 
 # Use
 
