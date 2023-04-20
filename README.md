@@ -13,6 +13,6 @@ server.r - the backside code for the application
 recomendations.sqlite - a database containing the applications data
 recommendations.r - a script which contains all the backend functions as well as the funcitons used to create reccommendations.sqlite
 
-#Installation 
+# Installation 
 
-##Prerequsites: a machine capable of running R 4.2.1 
+## Prerequsites: a machine capable of running R 4.2.1 
